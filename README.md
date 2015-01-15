@@ -24,11 +24,15 @@ Register for section 201 of Biol 525D.
 
 Students should have basic knowledge in R and some command line knowledge (although the latter could be obtained during the course)
 
-##EVALUATION##  Participation in discussions and lab exercises.
+##EVALUATION##  
+
+Participation in discussions and lab exercises.
 
 ##LOCATION AND TIME##
 
-TBA
+MWF (4-6:30pm) - ANGU 437
+
+T/R (4-6:30pm) - LASR 107
 
 ##BRIEF OUTLINE##
 
