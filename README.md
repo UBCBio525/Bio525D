@@ -24,7 +24,7 @@ Register for section 201 of Biol 525D.
 
 Students should have basic knowledge in R and some command line knowledge (although the latter could be obtained during the course)
 
-##EVALUATION##  
+##EVALUATION##
 
 Participation in discussions and lab exercises.
 
