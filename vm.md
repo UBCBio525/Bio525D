@@ -15,6 +15,6 @@ Working with the Virtual Machine (VM)
 
 ##DESKTOP NAVIATION##
 
-- The VM with automatically capture your mouse and keyboard, so read the messages about how to switch between the host and VM. You can disable host integration at anytime, and this may make it easy to navigate around the VM desktop.
+- The VM with automatically capture your mouse and keyboard, so read the messages about how to switch between the host and VM. You can disable host integration at anytime, and this may make it easier to navigate around the VM desktop.
 
-- With the cursor select "Activities" from the top left and then choose whatever application is need. For example, Terminal or RStudio. These will be the two primary applications that will be used.
+- With the cursor select "Activities" from the top left menu, and then choose whatever application is needed. For example, Terminal or RStudio. These will be the two primary applications that will be used.
