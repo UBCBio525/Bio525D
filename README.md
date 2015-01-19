@@ -8,4 +8,4 @@ Bioinformatics for Evolutionary Biology
 
 - See the [syllabus](https://github.com/UBCBio525/Bio525D/blob/master/syllabus.md) for an overview of the course.
 
-- The [vm](https://github.com/UBCBio525/Bio525D/blob/master/vm.md) guide has instructions for working with VirtualBox and using the Virtual Machine that will be used for all practical sessions.
+- The [Virtual Machine guide](https://github.com/UBCBio525/Bio525D/blob/master/vm.md) has instructions for working with VirtualBox and the Virtual Machine that will be used for all practical sessions.
