@@ -18,3 +18,7 @@ Working with the Virtual Machine (VM)
 - The VM with automatically capture your mouse and keyboard, so read the messages about how to switch between the host and VM. You can disable host integration at anytime, and this may make it easier to navigate around the VM desktop.
 
 - With the cursor select "Activities" from the top left menu, and then choose whatever application is needed. For example, Terminal or RStudio. These will be the two primary applications that will be used.
+
+- To shut down the VM, click the arrowhead in the top right corner of the desktop menu and select "Shut Down." Be sure to wait a couple of minutes for the VM to shut down properly.
+
+- To restart the VM, just click "Start" from the VirtualBox application.
