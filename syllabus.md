@@ -30,7 +30,8 @@ Participation in discussions and lab exercises.
 
 ##LOCATION AND TIME##
 
-~~MWF (4-6:30pm) - ANGU 437~~ (we will not be meeting at this location due to space limitations)
+~~MWF (4-6:30pm) - ANGU 437~~ (We will not be meeting at this location due to space limitations.)
+
 MWF (4-6:30pm) - HEBB 12
 
 T/R (4-6:30pm) - LASR 107
