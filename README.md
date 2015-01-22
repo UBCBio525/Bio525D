@@ -32,6 +32,6 @@ The specific files used for each exercise will be described in the instructions 
 
 ##OBTAINING ALL THE FILES ON THIS SITE##
 
-The following is an up-to-date zip rchive: https://github.com/UBCBio525/Bio525D/archive/master.zip
+The following is an up-to-date zip archive: https://github.com/UBCBio525/Bio525D/archive/master.zip
 
 This method dosesn't require `git`, however, you'll have to manually update the files this way (by downloading the whole repo again).
