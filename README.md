@@ -32,11 +32,11 @@ The specific files used for each exercise will be described in the instructions 
 
 ##OBTAINING ALL THE FILES ON THIS SITE##
 
-- The best way to obtain the site from your VM is to do the following:
+The best way to obtain the site from your VM is to do the following:
 
     git clone https://github.com/UBCBio525/Bio525D.git
 
-- To update the files each day, simply change to the **Bio525D** directory that was created by the previous command and type:
+To update the files each day, simply change to the **Bio525D** directory that was created by the previous command and type:
 
     git pull
 
