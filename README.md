@@ -14,9 +14,17 @@ Bioinformatics for Evolutionary Biology
 
 - For those wanting to work on their own machine, the [programs](https://github.com/UBCBio525/Bio525D/blob/master/resources/programs.md) file has a listing of the software used for each exercise.
 
-- The slides, commands, or any other information for each day is under a directory for that day. For example, the directory "[01](https://github.com/UBCBio525/Bio525D/tree/master/01)" contains information for day 1, the directory "[02](https://github.com/UBCBio525/Bio525D/tree/master/02)" contains information for day 2, and so on.
+- The slides, commands, or any other information for each day is under a directory for that day. For example, the directory "[Day1](https://github.com/UBCBio525/Bio525D/tree/master/Day1)" contains information for day 1, the directory "[Day2](https://github.com/UBCBio525/Bio525D/tree/master/Day2)" contains information for day 2, and so on.
+
+   - There are two directories for each day, one for the lecture and one for the exercises.
 
 - If you need a quick refresher (or some help getting up to speed) on working with a Unix system, take a look at the [unix help](https://github.com/UBCBio525/Bio525D/blob/master/resources/unix_help.md) file. There are some resources there that will help you find the specific command you need for each task. 
+
+##DATA REPOSITORY##
+
+All the data for each exercise will be at: www.zoology.ubc.ca/~yeaman/bioinformatics
+
+The specific files used for each exercise will be described in the instructions provided that day.
 
 ##NAVIGATING THIS SITE##
 
