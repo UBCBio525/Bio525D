@@ -50,12 +50,12 @@
     ncs <- nucStats(reader)
     ncs
 
-xlim <- c(1, 100000)
-coords <- c(0,xlim[1], xlim[2])
-range <- bamRange(reader, coords)
-ad <- alignDepth(range)
-mean(getDepth(ad))
-plotAlignDepth(ad)
+    xlim <- c(1, 100000)
+    coords <- c(0,xlim[1], xlim[2])
+    range <- bamRange(reader, coords)
+    ad <- alignDepth(range)
+    mean(getDepth(ad))
+    plotAlignDepth(ad)
 
-reader2fastq(reader, "out.fastq")
+    reader2fastq(reader, "out.fastq")
 
