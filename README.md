@@ -12,7 +12,7 @@ Bioinformatics for Evolutionary Biology
 
 - For those wanting to work on their own machine, the [programs](https://github.com/UBCBio525/Bio525D/blob/master/programs.md) file has a listing of the software used for each exercise.
 
-- The slides, commands, or any other information for each day is under a directory for that day. For example, the directory [01](https://github.com/UBCBio525/Bio525D/tree/master/01) contains information for day 1, the directory [02](https://github.com/UBCBio525/Bio525D/tree/master/02) contains information for day 2, and so on.
+- The slides, commands, or any other information for each day is under a directory for that day. For example, the directory "[01](https://github.com/UBCBio525/Bio525D/tree/master/01)" contains information for day 1, the directory "[02](https://github.com/UBCBio525/Bio525D/tree/master/02)" contains information for day 2, and so on.
 
 ##NAVIGATING THE SITE##
 
