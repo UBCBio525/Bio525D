@@ -40,6 +40,6 @@ To update the files each day, simply change to the **Bio525D** directory that wa
 
     git pull
 
-- You can also obtain all the files as a zip archive by clicking: https://github.com/UBCBio525/Bio525D/archive/master.zip
+You can also obtain all the files as a zip archive by clicking: https://github.com/UBCBio525/Bio525D/archive/master.zip
 
 This method dosesn't require `git`, however, you'll have to manually update the files this way (by downloading the whole repo again).
