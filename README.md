@@ -29,3 +29,17 @@ The specific files used for each exercise will be described in the instructions 
 ##NAVIGATING THIS SITE##
 
 - To access a file or directory, click that file or directory on the far left, directly over the name of the resource. If you click the message in the middle of the page, that shows what was changed in the commit, which is not what you want to look at.
+
+##OBTAINING ALL THE FILES ON THIS SITE##
+
+- The best way to obtain the site from your VM is to do the following:
+
+    git clone https://github.com/UBCBio525/Bio525D.git
+
+- To update the files each day, simply change to the **Bio525D** directory that was created by the previous command and type:
+
+    git pull
+
+- You can also obtain all the files as a zip archive by clicking: https://github.com/UBCBio525/Bio525D/archive/master.zip
+
+This method dosesn't require `git`, however, you'll have to manually update the files this way (by downloading the whole repo again).
