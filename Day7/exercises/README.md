@@ -1,4 +1,4 @@
-##Functional annotation and the Gene Ontology
+#Functional annotation and the Gene Ontology
 
 ##Sequence classification
 
