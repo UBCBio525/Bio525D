@@ -7,7 +7,7 @@ QUESTIONS:
 1. A common task in genomics is to determine the source of your sequence samples. Take a sample* of the sequence file and BLAST the sequences online at:
 http://www.uniprot.org/blast/.
 
-\* Hint: you can look at the first 3 sequences by typing: `head -11 seqs.faa`, and `tail -22 seqs.faa` will show you the last 3 sequences.
+\* Hint: you can look at the first 3 sequences by typing: `head -21 seqs.faa`, and `tail -22 seqs.faa` will show you the last 3 sequences.
 
 After analyzing the BLAST results, can you determine the source species your samples?
 
