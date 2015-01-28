@@ -1,5 +1,7 @@
 ##Functional annotation and the Gene Ontology
 
+##Sequence classification
+
 QUESTIONS: 
 
 1. A common task in genomics is to determine the source of your sequence samples. Take a sample* of the sequence file and BLAST the sequences online at:
