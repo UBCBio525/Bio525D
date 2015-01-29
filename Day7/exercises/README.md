@@ -35,7 +35,7 @@ Did you see any differences between the results for step 2 and 4 above?
 
 ##Mapping Pfam domains to GO terms
 
-For this section we will use HMMER2GO.
+For this section we will use [HMMER2GO](https://github.com/sestaton/HMMER2GO).
 
 Normally we would start with assemblies, or gene models. In that case, we would want to first find ORFs, translate those ORFs and assign protein matches to our sequences. This can be done with two commands using HMMER2GO, for example,
 
