@@ -57,7 +57,7 @@ The following excercies will all be done in Seaview, and you can launch the appl
 6. From the Gblocks menu, hit `g` and Enter, followed by `q` and Enter.
 7. In Seaview, analyze the results. Select "File -> Open" again and choose "seqs_muscle_aln.faa-gb". How does this compare with the MUSCLE alignment?
 8. Now infer the phylogeny from the Gblocks alignment in Seaview. Select "Tree -> Distance methods" and click "bootstrap" and set this to 500. Now, click Go!
-**9. Can you find your sequence in the tree? What are the phylogenetic origin for this group of sequences? Do you have any idea what might explain this finding?**
+9. **Can you find your sequence in the tree? What are the phylogenetic origin for this group of sequences? Do you have any idea what might explain this finding?**
 
 ##Optional
 1. Repeat step 2 with Clustal and see if you notice any differences between the alignments. Is the program slower, and does the alignment look as reliable?
