@@ -36,9 +36,9 @@ MWF (4-6:30pm) - HEBB 12
 
 T/R (4-6:30pm) - LASR 107
 
-##BRIEF OUTLINE##
+##TOPICS##
 
-Topics:
+Resources for each topic are in a subdirectory based on the topic.
 
 1. Broad introduction: Scope of course, goals, overview of technology and bioinformatics, and the future of sequencing [LOREN]
 2. Fastq files and quality checking/trimming [SAM]
