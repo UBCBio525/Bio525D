@@ -39,6 +39,7 @@ T/R (4-6:30pm) - LASR 107
 ##BRIEF OUTLINE##
 
 Topics:
+
 1. Broad introduction: Scope of course, goals, overview of technology and bioinformatics, and the future of sequencing [LOREN]
 2. Fastq files and quality checking/trimming [SAM]
 3. Alignment: algorithms and tools [SARIEL]
