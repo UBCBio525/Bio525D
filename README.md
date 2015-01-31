@@ -20,6 +20,8 @@ Bioinformatics for Evolutionary Biology
 
 - If you need a quick refresher (or some help getting up to speed) on working with a Unix system, take a look at the [unix help](https://github.com/UBCBio525/Bio525D/blob/master/resources/unix_help.md) file. There are some resources there that will help you find the specific command you need for each task. 
 
+- If you want to work through any of these exercises in the future or analyze your data in the cloud, create an account with [DigitalOcean](https://www.digitalocean.com/?refcode=c4cc062482a8), install the necessary programs in the programs lists (to be updated soon!), and hack away!
+
 ##DATA REPOSITORY##
 
 All the data for each exercise will be at: www.zoology.ubc.ca/~yeaman/bioinformatics
