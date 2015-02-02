@@ -11,7 +11,7 @@ Topic 2
 Topic 3
 =====
 
-Alignment programs used are [bowtie2](http://sourceforge.net/projects/bowtie-bio/files/bowtie2/) and [bwa-mem](https://github.com/lh3/bwa). Also required are [samtools](http://www.htslib.org/) and R package [rbamtools](https://r-forge.r-project.org/projects/rbamtools/).
+Alignment programs used are [bowtie2](http://sourceforge.net/projects/bowtie-bio/files/bowtie2/) and [bwa-mem](https://github.com/lh3/bwa). Also required are [samtools](http://www.htslib.org/) and the R package [rbamtools](https://r-forge.r-project.org/projects/rbamtools/).
 
 Topic 4
 =====
@@ -21,7 +21,7 @@ Topic 4
 Topic 5
 =====
 
-[RSEM](http://deweylab.biostat.wisc.edu/rsem/) and bowtie2 are required, in addition to an R script provided on the course site.
+[RSEM](http://deweylab.biostat.wisc.edu/rsem/) and bowtie2 (see above) are required, in addition to an R script provided on the course site.
 
 Topic 6
 =====
@@ -36,7 +36,7 @@ No additional programs required for this exercise.
 Topic 8
 =====
 
-[BLAST2GO](https://blast2go.com/blast2go-pro/download-b2g) was used for GO annotation, along with [HMMER2GO](https://github.com/sestaton/HMMER2GO). [Ontologizer](http://compbio.charite.de/contao/index.php/ontologizer2.html) is used for GO term enrichment.
+[BLAST2GO](https://blast2go.com/blast2go-pro/download-b2g) was used for GO annotation, along with [HMMER2GO](https://github.com/sestaton/HMMER2GO). [Ontologizer](http://compbio.charite.de/contao/index.php/ontologizer2.html) is used for GO term enrichment. Also, a Bash script was provided to automate the GO annotation process.
 
 Topic 9
 =====
