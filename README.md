@@ -14,7 +14,7 @@ Bioinformatics for Evolutionary Biology
 
 - For those wanting to work on their own machine, the [programs](https://github.com/UBCBio525/Bio525D/blob/master/resources/programs.md) file has a listing of the software used for each exercise.
 
-- The slides, commands, or any other information for each topic are under a directory for that topic. For example, the directory "[Topic1](https://github.com/UBCBio525/Bio525D/tree/master/Topic1)" contains information for topic 1, the directory "[Topic2](https://github.com/UBCBio525/Bio525D/tree/master/Topic2)" contains information for topic 2, and so on.
+- The slides, commands, or any other information for each topic are under a directory for that topic. For example, the directory "[Topic01](https://github.com/UBCBio525/Bio525D/tree/master/Topic01)" contains information for topic 1, the directory "[Topic02](https://github.com/UBCBio525/Bio525D/tree/master/Topic02)" contains information for topic 2, and so on.
 
    - There are two directories for each topic, one for the lecture and one for the exercises.
 
