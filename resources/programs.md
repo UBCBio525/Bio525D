@@ -31,7 +31,7 @@ SAMtools (see above), [bcftools](https://github.com/samtools/bcftools) and the R
 Topic 7
 =====
 
-No additional programs required for this exercise.
+No additional programs are required for this exercise.
 
 Topic 8
 =====
