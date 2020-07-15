@@ -4,7 +4,7 @@ Bio525D
 Topics in Systematics and Evolution:
 Bioinformatics for Evolutionary Biology
 
-##RESOURCES##
+## RESOURCES
 
 **All of the following materials are available under the *resources* directory. You can follow the links in the text to find each resource.**
 
@@ -22,17 +22,17 @@ Bioinformatics for Evolutionary Biology
 
 - If you want to work through any of these exercises in the future or analyze your data in the cloud, create an account with [DigitalOcean](https://www.digitalocean.com/?refcode=c4cc062482a8), install the necessary programs in the programs lists (to be updated soon!), and hack away!
 
-##DATA REPOSITORY##
+## DATA REPOSITORY
 
 All the data for each exercise will be at: www.zoology.ubc.ca/~yeaman/bioinformatics
 
 The specific files used for each exercise will be described in the instructions provided that day.
 
-##NAVIGATING THIS SITE##
+## NAVIGATING THIS SITE
 
 - To access a file or directory, click that file or directory on the far left, directly over the name of the resource. If you click the message in the middle of the page, that shows what was changed in the commit, which is not what you want to look at.
 
-##OBTAINING ALL THE FILES ON THIS SITE##
+## OBTAINING ALL THE FILES ON THIS SITE
 
 The following is an up-to-date zip archive: https://github.com/UBCBio525/Bio525D/archive/master.zip
 
