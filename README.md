@@ -47,11 +47,11 @@ To update the all the files at any point in the future, change to the **Bio525D*
     git pull
 
 
-##USE AND MODIFICATION OF THESE RESOURCES
+## USE AND MODIFICATION OF THESE RESOURCES
 
 You may use any of the materials provided here, and modify them in any way, provided there is appropriate attribution according the license found below and included with this project. 
 
-##LICENSE AND COPYRIGHT
+## LICENSE AND COPYRIGHT
 
 Copyright (C) 2015 S. Evan Staton, Sariel Hubner, Sam Yeaman
 
